@@ -1,3 +1,9 @@
-readme
+Kelompok 2 Tugas IT Governance
 
-Kelompok 2 IT governance
+Nama Anggota Kelompok:
+- Dede Herman 2010005
+- Sahal Mahfudh 2010015
+- Saherih 2010016
+- Muhamad Nurwakhid 2010021
+
+Kelas : 1.5 B Teknik Informatika
