@@ -1,4 +1,6 @@
 Kelompok 2 Tugas IT Governance
+Kelas 1.5 B 
+ProdiTeknik Informatika
 
 Nama Anggota Kelompok:
 - Dede Herman 2010005
@@ -7,4 +9,3 @@ Nama Anggota Kelompok:
 - Muhamad Nurwakhid 2010021
 - Bani Assiddiq Putri 2010073
 
-Kelas : 1.5 B Teknik Informatika
