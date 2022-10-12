@@ -1,6 +1,10 @@
 Kelompok 2 Tugas IT Governance
 Kelas 1.5 B 
-ProdiTeknik Informatika
+Prodi Teknik Informatika
+STMIK Antar Bangsa
+
+Dosen Pengajar:
+Sigit Wijanarko, S.Kom., M.Kom
 
 Nama Anggota Kelompok:
 - Dede Herman 2010005
