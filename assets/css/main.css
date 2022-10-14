@@ -241,11 +241,11 @@ div {
 }
 .contents > .item:nth-child(1)#lion,
 .contents > .item:nth-child(3) {
-  background-image: url("../images/bg_lion.png");
+  background-image: url("../images/bg3.png");
 }
 .contents > .item:nth-child(1)#tarsius,
 .contents > .item:nth-child(4) {
-  background-image: url("../images/bg_tarsius.png");
+  background-image: url("../images/bg4.jpg");
 }
 .contents > .item:nth-child(1)#barn-owl,
 .contents > .item:nth-child(5) {
