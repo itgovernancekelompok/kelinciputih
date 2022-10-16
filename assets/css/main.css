@@ -175,6 +175,7 @@ div {
   min-height: 100vh;
   background-attachment: fixed;
   background-image: url("../images/bg_main.png");
+  opacity: 0.6;
   background-size: cover;
   background-position: center bottom;
   font-family: Courgette;
@@ -332,7 +333,7 @@ div {
 .item.right > .paragraph-area {
   text-align: justify;
 }
-.paragraph-area > .article {
+.paragraph-area > .paragraph-area {
   font-size: 26px;
   margin-bottom: 20px;
 }
