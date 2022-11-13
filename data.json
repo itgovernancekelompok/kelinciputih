@@ -1,37 +1,37 @@
 {
     "question": [
-      "Q1. What Indian city is the capital of two states?",
-      "Q2. Which city is the capital of India?",
-      "Q3. Smallest State of India?",
-      "Q4. Where is Taj Mahal Located?"
+      "Q1. Mana yang bukan merupakan prinsip Tata Kelola TI?",
+      "Q2. Prinsip mana yang penting untuk tata kelola dan manajemen TI perusahaan?",
+      "Q3. Pada level apa Input dan Output didefinisikan?",
+      "Q4. Yang mana bukan kebijakan yang baik?"
     ],
     "answer": [
+      4,
       1,
-      2,
-      3,
-      2
+      1,
+      4
     ],
     "options": [
   
-      ["Chandigarh",
-        "Kolkata",
-        "Delhi",
-        "Bangalore"
+      ["Acquisition",
+        "Responsibility",
+        "Performance",
+        "Hardworking"
       ],
-      ["Jaipur",
-        "Delhi",
-        "Chennai",
-        "Mumbai"
+      ["Mengaktifkan Pendekatan Holistik",
+        "Mengelola Informasi",
+        "Optimalisasi Sumber Daya",
+        "Mengelola Operasi TI"
       ],
-      ["Rajasthan",
-        "Punjab",
-        "Goa",
-        "Bihar"
+      ["Proses",
+        "Tata Kelola",
+        "Praktek manajemen",
+        "Aktivitas"
       ],
-      ["Lucknow",
-        "Agra",
-        "Bhopal",
-        "Delhi"
+      ["Dilaksanakan dengan cara yang paling efisien",
+        "Tidak mengganggu",
+        "Mencapai tujuan yang dinyatakan",
+        "Terbatas jumlahnya"
       ]
     ]
   }
