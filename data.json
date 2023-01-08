@@ -1,0 +1,37 @@
+{
+    "question": [
+      "Q1. Mana yang bukan merupakan prinsip Tata Kelola TI?",
+      "Q2. Prinsip mana yang penting untuk tata kelola dan manajemen TI perusahaan?",
+      "Q3. Pada level apa Input dan Output didefinisikan?",
+      "Q4. Yang mana bukan kebijakan yang baik?"
+    ],
+    "answer": [
+      4,
+      1,
+      1,
+      4
+    ],
+    "options": [
+  
+      ["Acquisition",
+        "Responsibility",
+        "Performance",
+        "Hardworking"
+      ],
+      ["Mengaktifkan Pendekatan Holistik",
+        "Mengelola Informasi",
+        "Optimalisasi Sumber Daya",
+        "Mengelola Operasi TI"
+      ],
+      ["Proses",
+        "Tata Kelola",
+        "Praktek manajemen",
+        "Aktivitas"
+      ],
+      ["Dilaksanakan dengan cara yang paling efisien",
+        "Tidak mengganggu",
+        "Mencapai tujuan yang dinyatakan",
+        "Terbatas jumlahnya"
+      ]
+    ]
+  }
